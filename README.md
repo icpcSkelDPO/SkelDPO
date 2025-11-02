@@ -31,7 +31,7 @@ python generate_ENAMEL.py
 
 ## 📊 Evaluate
 
-You can evaluate the functional correctness and efficiency of the generated code on ENAMEL and Mercury:
+You can evaluate the functional correctness and efficiency of the generated code on Mercury and ENAMEL:
 <pre>
 python evaluator.py
 python evaluate.py
